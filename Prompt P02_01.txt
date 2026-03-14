@@ -1,0 +1,17 @@
+1. bantu akau membuat suatu code program bahasa c, dimana program ini akan membantu menghitung biaya ongkos kirim di kantor layanan del-express. Nah, jadi ada data diberikan kode kota, nama kota, kongkos kirim/kg, serta keterangan secara berurutan sebagai berikut :
+    1. MDN ; Medan ; 8000 ; Dalam Pulau
+    2. BLG ; Balige ; 5000 ;Dalam Pulau
+    3. JKT ; Jakarta ; 12000 ; Luar Pulau
+    4. SBY ; Surabaya ; 13000 ; Luar Pulau
+    nah, kemudian promo, yaitu ketika berat pengiriman lebih dari 10% dia akan mendapat diskon ongkir sebesar 10%, ketika ada pengiriman ke kota luar pulau akan dapat asuransi gratis. Jadi program ini hanya butuh inputan kode kota tujuan dan berat paket lalu sistem atau program akan menghitung seluruh biaya pengiriman termasuk berat paket butet mau pun ucok. Lalu output yang diharapkan itu adalah struk pembayaran yang terdiri dari Kota Tujuan, Berat paket Butet, berat paket ucok, Total Berat, Total ongkir dan informasi promo yang diperoleh. jadi program ini akan otomatis menghitung.
+
+2. oh lalu, user akan bisa terus memasukkan nama kota tempat barangny dikirim disertai dengan bertnya. Jika user ingin menyelesaikan inputan nya ditandai dengan user mengetik 'END" sehingga output akan keluar dengan sendirina
+3. MDN 
+5
+JKT
+3
+BLG
+4
+END 
+
+lalu keluar output nya berupa struk pembayaran yang terdiri dari : Kota tujuan, berat paket butet, berat paket ucok, total berat, total ongkos kirim, dan informasi promo yang diperoleh
